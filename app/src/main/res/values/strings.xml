@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="setting_menu_main">Setting</string>
+    <string name="btn_calculate">CALCULATE</string>
+</resources>
